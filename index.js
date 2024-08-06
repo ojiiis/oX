@@ -1,4 +1,4 @@
-exports.oS = ()=>{
+exports.ojox = ()=>{
     const imp = {
      get:{},
      post:{},

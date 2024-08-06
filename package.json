@@ -1,6 +1,6 @@
 {
   "name": "ojox",
-  "version": "0.1.0",
+  "version": "1.1.1",
   "description": "NodeJs http server frame work",
   "main": "index.js",
   "scripts": {
